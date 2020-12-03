@@ -21,6 +21,8 @@ twitter_username: hnevkop
 github_username: hnevkop
 minimal_mistakes_skin: air
 search: true
+url: "https://hnevkop.github.io/"
+# repository: "username/repo-name"
 
 # Build settings
 markdown: kramdown
@@ -58,7 +60,7 @@ plugins:
 author:
   name   : "Přemysl Hněvkovský"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Co přijde to odejde."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -111,3 +113,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+locale: "cs-CZ"
