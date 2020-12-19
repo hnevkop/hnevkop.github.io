@@ -1,9 +1,9 @@
 ---
 title: 'Vzácně o PVNS'
 tags:
-- PVNS, rare disease  
+  - PVNS, rare disease  
   categories:
-- Blog
+  - Blog
 ---
 
 Ahoj náhodní kolemjdoucí. Každý rok v únoru je Den vzácných nemocí a neboť jsem neměl kam psát před pár měsíci,   
