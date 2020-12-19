@@ -4,6 +4,7 @@ tags:
   - PVNS, rare disease  
 categories:
   - Blog
+category: Blog
 ---
 
 Ahoj náhodní kolemjdoucí. Každý rok v únoru je Den vzácných nemocí a neboť jsem neměl kam psát před pár měsíci,   
