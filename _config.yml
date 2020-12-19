@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Přemysl Hněvkovský"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Co přijde to odejde."
+  bio    : "Co přijde, to odejde."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
