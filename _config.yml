@@ -24,6 +24,9 @@ search: true
 url: "https://hnevkop.github.io/"
 # repository: "username/repo-name"
 
+teaser: /assets/images/clouds-500x300.jpg
+masthead_title: "Poznámečky by PH"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -115,3 +118,12 @@ tag_archive:
   path: /tags/
 
 locale: "cs-CZ"
+
+
+# my custom config
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-256759207-1"
+    anonymize_ip: false # default
+

@@ -1,7 +1,7 @@
 ---
 title: 'Vzácně o PVNS'
 tags:
-  - PVNS, rare disease  
+  - PVNS,RareDisease  
 categories:
   - Blog
 category: Blog
