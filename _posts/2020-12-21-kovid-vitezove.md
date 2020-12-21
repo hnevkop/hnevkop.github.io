@@ -56,9 +56,8 @@ Lepší chvíle nebude.
 Právě teď jsou všechny reflektory upnuté na vás. Rozhodování není zcela důležité, zítra otočíte kormidlem, sice ve vlaku není, ale vy nemáte čas na detaily.
 Je potřeba ždímat emoce davu tak jak to jen půjde. To co představujete a říkáte musí dát lidem naději a smysl. Jen vy víte že naděje se dá skvěle obchodovat
 ve svůj prospěch. Bude to vyčerpávající a přiznejte si, že ne všichni můžou vypadat po uběhnutí maratonu dobře.
-
 Ty co to ale dokážou, budou vyskakovat na titulní straně Wikipedie až do první invaze Marťanů.
-Zapsán do věčnosti, kdo z vás to má ? Za to těch pár kousnutí od novinářských hyen za zádi to stojí.
+Zapsán do věčnosti, kdo z vás to má ? Za to těch pár kousnutí od novinářských hyen do zádi to stojí.
 
 ### Místo 2. Zpohodlňovači lenosti, Pragmatičtí doručovatelé, Stavitelé krabic, Otrokáři dneška.
 Už včera jste věděli že většina Prahy bude dnes líná si dojít do vietnamské večerky pro rohlík ?
