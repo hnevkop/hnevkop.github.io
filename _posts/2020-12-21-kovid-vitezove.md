@@ -1,16 +1,23 @@
 ---
 title: 'Ty opravdoví vítězové Covid krize'
 tags:
-  - Covid-19  
+  - Covid-19 
+  - krize
+  - roušky
+  - satira
 categories:
   - Blog
 category: Blog
+header:
+    teaser: /assets/images/monalisa-covid.jpg    
 ---
 
 Konec roku udeřil a tak máme plné noviny kdo v tomto roce vyhrál a prohrál. Kdo je vítězem nebo poraženým současné krize?
 Jeden by lehce získal přesvědčení že svět se dělí na ty, co mají seriozně znějící analýzy pod palcem, jako i dostatek křišťálových koulí a pak na zbytek osazenstva autobusu.
 Pojďme si to tedy shrnout, neb není od věci změnit úhel pohledu a prach nechat rozvířený dokud se nerozkašlem.
 V dvoudílném článku se pokusím se o zcela nezasvěcenou analýzu. Začneme s těmi, kdo leští příčky nejvyšší.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/monalisa-covid.jpg){: .align-center}
 
 ### Místo 5. Rouškaři.
 První představená kategorie je zcela zřejmá, neb to chápe každý. Ne ?

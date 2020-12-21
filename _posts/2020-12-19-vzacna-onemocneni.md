@@ -1,10 +1,14 @@
 ---
 title: 'Vzácně o PVNS'
 tags:
-  - PVNS  
+  - PVNS
+  - onkology
+  - rare disease  
 categories:
   - Blog
 category: Blog
+header:
+    teaser: /assets/images/pvns.jpg    
 ---
 
 Ahoj náhodní kolemjdoucí. Každý rok v únoru je Den vzácných nemocí a neboť jsem neměl kam psát před pár měsíci,   
@@ -12,6 +16,8 @@ postuji se spožděním text až teď. A mimochodem, ani jsem neoslavoval.
 Text původem není zcela můj, ale ze skupiny na Facebooku (<a href="https://www.facebook.com/groups/91851410592">PVNS is Pants</a>),
 jen jsem si ho dovolil přeložit do jazyka českého, mírně poupravit a doplnit.
 A jak asi tušíte, nemoc, kterou se rozhodnu lehce osvětlit, je ta, se kterou jsem zápasím.
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/pvns.jpg){: .align-left}
 
 Pigmentovaná Villonodular Synovitis (PVNS, TGCT, GCT-TS ) uniká pozornosti většiny lidí, protože každý rok je
 diagnostikováno tak málo případů (odhady se pohybují od 1,8 do téměř 50 případů na milion lidí) že zřejmě tak na nikoho s tímto onemocněním v okolí nenarazíte.
