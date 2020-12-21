@@ -99,4 +99,5 @@ Jen vy víte jak vypadá pravda a kdo je opravdový vítěz.
 
 
 
-O tom kdo si čistí nohy od bláta pod pódiem a utírá slzu si zoufalství si povíme příště.
+To je vše přátelé. Veselé čtení bude muset vystřídat to smutné, takže tom kdo si čistí nohy od bláta pod pódiem a utírá slzu si zoufalství si povíme příště.
+Mezitím se doporučuji projít. Jak známo, ve zdravém těle zdravý duch a ze zkušenosti to připraví na víc než jednu krizi.
