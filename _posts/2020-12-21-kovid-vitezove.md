@@ -37,6 +37,7 @@ Máte někoho kdo si buduje image moudrého muže, ale plácá jednu kravinu za 
 Šup s ním do hlavních zpráv.
 
 Máte proroka apokalypsy? Super. Není nad lepšího rozfoukávače ohně.
+
 Máte vizionáře ? Bingo. Člověk z příštího století s brilantním mozkem který nám vysvětlí komplexitu budoucnosti, krizi dneška a barvu svého svetru?
 Tak ten je ten pravý přitahovač kliků myši nebo zběsilého ježdění po displeji mobilu.
 
