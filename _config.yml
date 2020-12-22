@@ -124,6 +124,6 @@ locale: "cs-CZ"
 analytics:
   provider: "google"
   google:
-    tracking_id: "G-2HYCL82JVP"
+    tracking_id: "UA-185939134-1"
     anonymize_ip: false # default
 
