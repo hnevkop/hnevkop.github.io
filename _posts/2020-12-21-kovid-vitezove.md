@@ -1,5 +1,5 @@
 ---
-title: 'Ty opravdoví vítězové Covid krize'
+title: 'Ti opravdoví vítězové Covid krize'
 tags:
   - Covid-19 
   - krize
