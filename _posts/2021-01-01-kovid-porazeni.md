@@ -34,10 +34,11 @@ Chyba lávky. Nejspíše nezmizí při prvním zachvění jako ty na hliněných
 se zapisuje už teď. Víra v ně totiž zmizela.
 
 Hrajete divadlo a teď vám zavřeli oponu.
-Vy jste čekali na závěrečný potlesk na úspěch vaší životní dřiny a odříkání, ale přišel rozkaz shora, který poslal diváky domů.
+Vy jste čekali na závěrečný potlesk, na úspěch vaší životní dřiny a odříkání, ale přišel rozkaz shora, který poslal diváky domů.
 
-Finitos.
+Finitos.  
 Bude těžké si tuhle víru ve smysl věcí držet i po roce bez práce a podpoře od státu.
+
 Dostali jste Covid a vaše domácky vařené pivo musíte vylít do kanálu. Věrní pivaři se vám zatím rozprchnou nebo přejdou na nealko.
 
 Tchýně vám řekne že už péct koláče nebude.
@@ -47,7 +48,7 @@ Pan farář odejde do důchodu.
 Víra ve vše dobré je pryč. Pokud si přestanete hledat novou, zapište se na seznam.
 
 ### Místo 3. Extremisté hlavy.
-Podlehnout dojmu že právě vím, znám a umím nejlépe je jako vábení sirén. Bezchybně vás zavedou na skaliska.
+Podlehnout dojmu, že právě vím, znám a umím nejlépe je jako vábení sirén. Bezchybně vás zavedou na skaliska.
 Všichni mají krizi, jen já mám výzvu.
 
 Udělám si přesný graf na spotřebu roušek v domácnosti a na burzách spekuluji na pokles jejich ceny.
@@ -63,17 +64,17 @@ Můžete se jen modlit aby vás při téhle plavbě zastihl silný protivítr. S
 Z médií už nevíte čemu věřit. Informace se valí sem a tam a vy jste už celí otupělí.
 Přátelé také odešli a láhev vína se nebezpečně rychle vyprazdňuje.
 
-Tohle není první morová rána která vám vzala naději pro lepší svět a není nic nebo spíše nikdo kdo by vás vzal za ruku.
-Být sám je nesnesitelné a nenaplňující. Vydrží tomu čelit jen ty nejotrlejší z nás což vy zcela jistě nejste.
+Tohle není první morová rána která vám vzala naději pro lepší svět a není nic, nebo spíše nikdo, kdo by vás vzal za ruku.
+Být sám je nesnesitelné a nenaplňující. Vydrží tomu čelit jen ty nejotrlejší z nás, což vy zcela jistě nejste.
 
 Co si budeme vyprávět. Je načase vypadnout ven do lesa a obvolat všechny co máte v mobilu i na posledním místě. Záchrana existuje.
 Seznam vám už někdo hodil do poštovní schránky, takže ho koukejte rychle vyhodit do boxu na nevyžádané letáky.
-Naděje umírá poslední jen pokud jí to dovolíme. 
+Naděje umírá poslední ale jen pokud jí to dovolíme. 
 
 ### Místo 1. Ti co jsou už za horizontem.
 Nejen že v tomhle divadle zatáhli oponu, dokonce zhasli.
 Pro ty, co se jím nepodařilo překonat strasti krize zdravotního nebo jiného úskalí a zůstali zde, patří příčka nejvyšší. Smutné to prvenství.
-Už nikdy nám neřeknou jestli se připsali na seznam tím či oním způsobem. Na co mysleli před tím, než k tomu došlo a kolik bolesti je to stálo.
+Už nikdy nám neřeknou, jestli se připsali na seznam tím či oním způsobem. Na co mysleli před tím, než k tomu došlo a kolik bolesti je to stálo.
 Může to být připomínka našich blbostí ( jako nenosit roušky v MHD) nebo přehnané lásce k "vnitřní" desinfekci na bázi alkoholu.
 Je konec a vzpomínejme s pokorou.
 
