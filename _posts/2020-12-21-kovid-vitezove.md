@@ -2,9 +2,9 @@
 title: 'Ti opravdoví vítězové Covid krize'
 tags:
   - Covid-19 
-  - krize
-  - roušky
-  - satira
+  - Krize
+  - Roušky
+  - Satira
 categories:
   - Blog
 category: Blog

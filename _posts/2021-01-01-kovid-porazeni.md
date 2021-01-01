@@ -2,8 +2,8 @@
 title: 'Ti poražení a doražení Covid krize'
 tags:
   - Covid-19 
-  - krize
-  - život
+  - Krize
+  - Život jaký je
 categories:
   - Blog
 category: Blog
