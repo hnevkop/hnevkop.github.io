@@ -127,3 +127,7 @@ analytics:
     tracking_id: "UA-185939134-1"
     anonymize_ip: false # default
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "poznamecky"
