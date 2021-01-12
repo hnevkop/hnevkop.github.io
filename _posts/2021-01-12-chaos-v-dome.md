@@ -19,7 +19,8 @@ header:
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/traffic-lights.jpg){: .align-center}
 
-Tak kdybych se cítil pěkně intelektuálně nakoplý tak tenhle citát pěkně rozeberu a asi bych u někoho narazil.  
+Tak kdybych se cítil pěkně intelektuálně nakoplý tak tenhle citát pěkně rozeberu a asi bych u někoho narazil.   
+
 Takže klid. Jen se mi hodil do krámu. Vlastně jsem na něj přišel, když jsem hledal zcela něco jiného, fota chaosu.
 S tím řádem je to ale pravda. Po té, co už tak dlouho dřepíme doma, prakticky bez normálních projevů života se musí nějaký ten pořádek z chaosu vyloupnout.
 Takže během toho jsme u nás hlavně zjistili, že:
