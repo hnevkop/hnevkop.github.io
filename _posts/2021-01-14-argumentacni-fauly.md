@@ -28,7 +28,7 @@ Nikdo není dokonalý. O pár vyslechnulých se s vámi rád podělím.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/fish-1.jpg){: .align-center}
 
-Image by <a href="https://pixabay.com/users/thommas68-2571842/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2243510">Iván Tamás</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2243510">Pixabay</a>
+Image by <a href="https://pixabay.com/users/thommas68-2571842/">Iván Tamás</a> from <a href="https://pixabay.com/">Pixabay</a>
 
 
 > Pokud to neuděláš jsi blbej. Rodičovsky obvykle: pokud nebude dělat to nebo to, zůstane blbej/línej/neschopnej atd.
