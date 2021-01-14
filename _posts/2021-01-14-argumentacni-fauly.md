@@ -1,5 +1,5 @@
 ---
-title: 'Komunikační fauly'
+title: 'Argumentační fauly'
 tags:
   - Manipulace
   - Rodičovství
@@ -22,7 +22,7 @@ to kdy to protivníka přestane bavit.
 Přesto síla diskuse je pořád o tom, jak argumenty používat. Přesně, bez manipulace a s vědomím toho že protistrana může mít přesně opačný protiargument.
 Pokud se to nedaří, tak tu jede naplno něco, co nakonec žádná diskuse být ani nemusí.
 
-Existují totiž takzvané komunikační fauly. Určitě o nich víte, skrytě je vnímáte, někdy i používáte a moc dobře se u toho necítíte. Jako já.
+Existují totiž takzvané argumentační fauly. Určitě o nich víte, skrytě je vnímáte, někdy i používáte a moc dobře se u toho necítíte. Jako já.
 Nikdo není dokonalý. O pár vyslechnulých se s vámi rád podělím.
 
 
