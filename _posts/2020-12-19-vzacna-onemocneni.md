@@ -1,9 +1,16 @@
 ---
 title: 'Vzácně o PVNS'
+show_date: true
 tags:
   - PVNS
+  - TGCT
   - Oncology
-  - Rare Disease  
+  - Rare Disease
+  - Vzácná onemocnění
+  - TGCT
+  - Obrovskobuněčný nádor
+  - Onkologie
+  - Život jaký je
 categories:
   - Blog
 category: Blog

@@ -1,5 +1,6 @@
 ---
 title: 'Argumentační fauly'
+show_date: true
 tags:
   - Manipulace
   - Rodičovství

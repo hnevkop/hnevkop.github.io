@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "Kategorie"
     url: /categories/
+  - title: "PVNS"
+    url: /pvns/
   - title: "Tagy"
     url: /tags/
   - title: "Ovšem"

@@ -3,6 +3,7 @@ tags:
   - Citátek
 title: Citátek
 category: Blog
+show_date: true    
 ---
 
 > Proti trampotám života dal Bůh člověku tři věci - naději, spánek a smích.

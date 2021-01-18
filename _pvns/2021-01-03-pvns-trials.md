@@ -1,13 +1,13 @@
 ---
 title: 'PVNS Klinické studie'
+show_date: true
 tags:
   - PVNS
   - TGCT
   - Oncology
   - Rare Disease
-categories:
-  - Blog
-category: Blog
+  - TGCT
+  - Obrovskobuněčný nádor
 header:
     teaser: /assets/images/pvns.jpg
 last_modified_at: 2021-01-03T01:01:25-05:00

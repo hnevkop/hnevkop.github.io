@@ -1,11 +1,12 @@
 ---
+title: "Homeschooling naruby pro líného rodiče"
+show_date: true
 tags:
    - Covid 
    - Rodičovství
    - Homechooling
    - Školadoma
    - Líný rodič
-title: "Homeschooling naruby pro líného rodiče"
 category: Blog
 header:
   teaser: /assets/images/homeschooling.jpg
