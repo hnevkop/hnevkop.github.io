@@ -1,7 +1,7 @@
 title: Poznámečky
 email: premysl.hnevkovsky@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Náhodné myšlenky, náhodně objevené.
+  Přemysl Hněvkovský personal Blog, Náhodné myšlenky, náhodně objevené, PVNS Blog
 twitter_username: hnevkop
 github_username: hnevkop
 minimal_mistakes_skin: air
@@ -44,6 +44,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Přemysl Hněvkovský"
