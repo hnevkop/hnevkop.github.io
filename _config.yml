@@ -116,7 +116,7 @@ locale: "cs-CZ"
 
 # my custom config
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "UA-185939134-1"
     anonymize_ip: false # default

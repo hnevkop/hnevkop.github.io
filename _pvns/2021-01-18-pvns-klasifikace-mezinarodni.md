@@ -41,7 +41,7 @@ Ačkoli PVNS a GTC jsou nemoci se stejným zastřešujícím názvem, jedná se 
 
 >Spojitost PVNS s rakovinou.
 >
->Jakkoli jsou v odborné literatuře jsou zmapované i zhoubné případy PVNS jedná se opravdu velmi vzácné a pravděpodobně výjimečné výskyty.
+>Jakkoli jsou v odborné literatuře jsou zmapované i zhoubné případy ( kombinace PVNS a dalších zhoubných nádorů) PVNS jedná se opravdu velmi vzácné a pravděpodobně výjimečné výskyty.
 >Bohužel jinak příbuzenské spojení nelze popřít, takže PVNS má s rakovinou a zhoubnými nádory i tak mnoho společného. Jmenovitě:
 >
 >* Rychlý růst, tedy lokálně agresivní.
