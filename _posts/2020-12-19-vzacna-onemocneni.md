@@ -12,6 +12,7 @@ tags:
   - Život jaký je
 categories:
   - Blog
+  - PVNS
 category: Blog
 header:
     teaser: /assets/images/pvns.jpg    

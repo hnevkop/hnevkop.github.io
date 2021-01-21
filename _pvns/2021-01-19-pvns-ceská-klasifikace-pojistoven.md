@@ -17,16 +17,16 @@ Během léčby jsem se setkal s různým zařazením nemoci. Obvykle přeřazov�
 Postupem doby se ustálilo na těchto třech:
 
 Obecná Diagnóza:
-Jiné nezhoubné nádory pojivové a jiných měkkých tkání. Pojivová a jiná měkká tkáň dolní končetiny včetně kyčle.  
-https://www.symptomy.cz/diagnoza/kod?id=D212
+Jiné nezhoubné nádory pojivové a jiných měkkých tkání. Pojivová a jiná měkká tkáň dolní končetiny včetně kyčle.     
+[D212](https://www.symptomy.cz/diagnoza/kod?id=D212)   
 
 Lokalizovaná Diagnóza:
-Popis: Zhoubný novotvar jiné pojivové a měkké tkáně, včetně boku.
-https://www.symptomy.cz/diagnoza/kod?id=C492
+Popis: Zhoubný novotvar jiné pojivové a měkké tkáně, včetně boku.   
+[C492](https://www.symptomy.cz/diagnoza/kod?id=C492)
 
 Ostatní:
-Nezhoubný novotvar, Kost a kloubní chrupavka NS
-https://www.symptomy.cz/diagnoza/kod?id=D169
+Nezhoubný novotvar, Kost a kloubní chrupavka NS.   
+[D169](https://www.symptomy.cz/diagnoza/kod?id=D169)
 
 
 Onkologická diagnóza a zařazení je v ČR ( a asi všude) důležitým faktorem pro proplácení lékařské péče a drahé léčby, proto doporučuji promluvit s doktorem o
