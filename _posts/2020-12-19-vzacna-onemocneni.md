@@ -7,7 +7,6 @@ tags:
   - Oncology
   - Rare Disease
   - Vzácná onemocnění
-  - TGCT
   - Obrovskobuněčný nádor
   - Onkologie
   - Život jaký je
