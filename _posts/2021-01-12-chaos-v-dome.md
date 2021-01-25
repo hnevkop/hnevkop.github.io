@@ -1,5 +1,5 @@
 ---
-title: 'Domácí chaos, prosím stručně.'
+title: 'Domácí chaos, prosím stručně'
 show_date: true
 tags:
    - Covid
