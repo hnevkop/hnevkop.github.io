@@ -15,7 +15,7 @@ header:
 
 Lidská mysl je pěkná mrcha a marketéři všeho druhu to dobře vědí. Posuzování lepší-horší je tam zastrčeno někde hluboko a naskakuje ať chceme nebo ne.
 Weboví a obsahoví specialisté se pak řídí dle hesla: "Když máš pistoli, musíš ji použít" a tak střílí o sto šest.
-Občas si ale říkám jestli to není zbytečné.
+Občas si ale říkám, jestli to není zbytečné.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/hollywood.jpg){: .align-center}
 
