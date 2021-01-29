@@ -3,6 +3,7 @@ title: 'PVNS Sekce'
 show_date: true
 tags:
   - PVNS
+  - Pigmented Villonodular Synovitis    
   - TGCT
   - Oncology
   - Rare Disease

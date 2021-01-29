@@ -4,6 +4,7 @@ show_date: true
 tags:
   - Obrovskobuněčný nádor
   - PVNS
+  - Pigmented Villonodular Synovitis    
   - TGCT
   - Oncology
   - Onkologie

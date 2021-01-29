@@ -3,6 +3,7 @@ title: 'PVNS Klinické studie'
 show_date: true
 tags:
   - PVNS
+  - Pigmented Villonodular Synovitis
   - TGCT
   - Oncology
   - Rare Disease

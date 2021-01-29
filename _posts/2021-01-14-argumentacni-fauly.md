@@ -5,6 +5,7 @@ tags:
   - Manipulace
   - Rodičovství
   - Autorita
+  - Psychologie
 categories:
   - Blog
 category: Blog
