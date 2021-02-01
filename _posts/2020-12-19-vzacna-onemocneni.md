@@ -1,6 +1,7 @@
 ---
 title: 'Vzácně o PVNS'
 show_date: true
+classes: wide
 tags:
   - PVNS
   - Pigmented Villonodular Synovitis    

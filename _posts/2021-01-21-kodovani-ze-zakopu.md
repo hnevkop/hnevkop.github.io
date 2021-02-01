@@ -1,6 +1,7 @@
 ---
 title: 'Homeoffice jako rodinný výlet autem'
 show_date: true
+classes: wide
 tags:
   - Coding
   - SW Development

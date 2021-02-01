@@ -1,6 +1,7 @@
 ---
 title: 'Česká pošta je úplně nejdál'
 show_date: true
+classes: wide
 tags:
   - Horní Měcholpupy
   - Česká Pošta
@@ -20,6 +21,8 @@ Fakt. Nekecám.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ducks.jpg){: .align-center}
 
 Image by <a href="https://pixabay.com/users/ossemeadores-3923870/">DANIEL Deusdete</a> from <a href="https://pixabay.com/">Pixabay</a>
+{: style="text-align: center;"}
+
 
 Zjistil jsem to před pár měsíci, když jsem šel odeslat docela obyčejný, oznámkovaný dopis, který se již více než sto let háže do schránky.   
 

@@ -1,6 +1,7 @@
 ---
 title: 'Domácí chaos, prosím stručně'
 show_date: true
+classes: wide
 tags:
    - Covid
    - Rodičovství

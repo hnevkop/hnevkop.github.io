@@ -1,6 +1,7 @@
 ---
 title: 'Argumentační fauly'
 show_date: true
+classes: wide
 tags:
   - Manipulace
   - Rodičovství
@@ -31,6 +32,7 @@ Nikdo není dokonalý. O pár vyslechnulých se s vámi rád podělím.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/fish-1.jpg){: .align-center}
 
 Image by <a href="https://pixabay.com/users/thommas68-2571842/">Iván Tamás</a> from <a href="https://pixabay.com/">Pixabay</a>
+{: style="text-align: center;"}
 
 
 > Pokud to neuděláš jsi blbej. Rodičovsky obvykle: pokud nebude dělat to nebo to, zůstane blbej/línej/neschopnej atd.

@@ -1,6 +1,7 @@
 ---
 title: 'A tenhle je taky nejhorší! O jednom newsletteru, eye catching headlines a touze být lepšími'
 show_date: true
+classes: wide
 tags:
    - Online manipulation
    - Manipulace

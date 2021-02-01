@@ -1,6 +1,7 @@
 ---
 title: "Homeschooling naruby pro líného rodiče"
 show_date: true
+classes: wide
 tags:
    - Covid 
    - Rodičovství
