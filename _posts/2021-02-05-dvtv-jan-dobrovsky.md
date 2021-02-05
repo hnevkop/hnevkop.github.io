@@ -6,8 +6,6 @@ tags:
   - rozhovory
   - poznamecky
   - dvtv
-categories:
-  - Blog  
 category: Blog
 header:
   teaser: /assets/images/waves.jpg
@@ -26,7 +24,7 @@ Trikem pak je propojit firmu s člověkěm na emoční úrovni.
 >Lidstvo není špatné ani dobré, ale pokud budeme infantilní, tak najednou budeme mít co řešit.
 Svět se řídí pocitem. Řízení emocemi je jako ve Středověku.
  
-**Poznámečka:** Proto je tak populární spousta ala středověkých filmových ság, násilí a krváků. Díky za doplnění do skládanky. Neznamené to však, že některé pocity jsou špatné, jen prostě nepatří všude.
+**Poznámečka:** Proto je tak populární spousta ala středověkých filmových ság, násilí a krváků. Díky za doplnění do skládanky. Neznamená to však, že některé pocity jsou špatné, jen prostě nepatří všude.
 
 >Politik je příklad chování. Špatný příklad vytváří falešné modely chování.
 
@@ -35,10 +33,10 @@ Svět se řídí pocitem. Řízení emocemi je jako ve Středověku.
 >Společnost byla postavená na autoritě těch, kteří vědí.
 >Najednou neni autorita nikdo. Ani stát.
 
-**Poznámečka:** Pěkně rozebrané na americkém příkladu to je t0to [knize](https://en.wikipedia.org/wiki/How_Democracies_Die).
+**Poznámečka:** Pěkně rozebrané na americkém příkladu to je této [knize](https://en.wikipedia.org/wiki/How_Democracies_Die).
 Jinak ale nepočítám že by zmizela v budoucnu i rodičovská autorita. Jen s ní [opatrně](https://www.csfd.cz/film/844293-vychovani-vlky/prehled/).
 
->Argument je definován. Jejim obsahem je znalost.
+>Argument je definován. Jejím obsahem a základem je znalost.
 >Argument není pocit a pocit není názor.
 
 **Poznámečka:** Tohle chce vytesat do kamene, nebo alespoň přidat do úvodníku každého diskusního fóra.
