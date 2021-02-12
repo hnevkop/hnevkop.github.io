@@ -47,7 +47,7 @@ Láhve alkoholu, a to i tvrdého vlastním.
 Mám rád dýmku a rum, dobré pivo, a neopovrhnu ani dobrým vínem.   
 Je mi někam zmizela potřeba popíjení alkoholu a rapidně se mi snížila odolnost organismu.
 
-P59b2h pokra4uje. Po upřednostnění dětských plenek před lahví koňaku jsem směle pokračoval k další překážce, která mi zkřížila cestu v jeho požívání po návratu do Čech.   
+Příběh pokračuje. Po upřednostnění dětských plenek před lahví koňaku jsem směle pokračoval k další překážce, která mi zkřížila cestu v jeho požívání po návratu do Čech.   
 Zdravotní komplikace trvalého charakteru, které vyžadovaly léčbu rozličnými léky, ještě více nabourali schopnost metabolizovat alkohol mé, už beztak netrénované, játra.  
 To jsem záhy zjistil při jeho konzumaci. Jedno pivo mě přivodilo bolesti hlavy a rozhozený žaludek na dva dny.
 Loni jsem to považoval za docela podezřelé, tak jsem zašel za svojí léčitelkou a povídám o tom.
