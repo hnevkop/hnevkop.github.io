@@ -3,9 +3,9 @@ title: 'Povedený rozhovor s Janem Dobrovským na DVTV'
 show_date: true
 classes: wide
 tags:
-  - rozhovory
-  - poznamecky
-  - dvtv
+  - Rozhovory
+  - Poznamečky
+  - DVTV
 category: Blog
 header:
   teaser: /assets/images/waves.jpg
