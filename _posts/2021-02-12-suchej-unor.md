@@ -6,8 +6,6 @@ tags:
     - Poznámečky
     - Life
     - Alkohol
-categories:
-- Blog
 category: Blog
 header:
   teaser: /assets/images/dubai-desert.jpg
