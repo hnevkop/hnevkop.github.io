@@ -55,5 +55,5 @@ Budou s vámi napořád a ještě více si ztížíte naději na jejich vyřeše
 
 Myslíte že tohle celé je kravina ? zkuste si vyhledat na toto téma nějakou obsáhlejší publikaci.
 Samozřejmě se nejedná jen o WC, v širším záběru jde o do češtiny přeložený popis `koupelnovou psychologii` - `bathroom psychology` zabývající se tímto tématem.
-Doporučuji alespoň zavadit na (Googlu)[https://www.google.com/search?q=bathroom+psychology]. 
+Doporučuji alespoň zavadit na [Googlu](https://www.google.com/search?q=bathroom+psychology). 
 Odhaluje netušené.
