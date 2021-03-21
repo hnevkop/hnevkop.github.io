@@ -7,6 +7,8 @@ tags:
    - Covid-19
    - Život jaký je
    - Bathroom psychology
+categories:
+   - Blog
 category: Blog
 header:
    teaser: /assets/images/roll-paper.jpg
