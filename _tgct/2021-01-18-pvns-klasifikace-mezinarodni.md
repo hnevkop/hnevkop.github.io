@@ -1,5 +1,5 @@
 ---
-title: "Mezinárodní klasifikace PVNS"
+title: "Mezinárodní klasifikace PVNS/TGCT"
 show_date: true
 tags:
    - Obrovskobuněčný nádor

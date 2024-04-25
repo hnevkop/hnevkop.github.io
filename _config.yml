@@ -95,10 +95,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _pvns
+  # _tgct
   - scope:
       path: ""
-      type: pvns
+      type: tgct
     values:
       layout: single
       author_profile: true
@@ -130,6 +130,6 @@ comments:
     shortname: "poznamecky"
 
 collections:
-  pvns:
+  tgct:
     output: true
     permalink: /:collection/:path/
