@@ -12,6 +12,7 @@ tags:
 header:
     teaser: /assets/images/pvns.jpg
 last_modified_at: 2021-01-03T01:01:25-05:00
+layout: collection 
 ---
 
 Během prohledávání zdrojů o PVNS je internet poměrně dobrým zdrojem.

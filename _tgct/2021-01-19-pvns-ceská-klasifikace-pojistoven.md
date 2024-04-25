@@ -13,6 +13,7 @@ tags:
   - Vzácná onemocnění
 header:
   teaser: /assets/images/pvns-2.png
+layout: collection 
 ---
 
 Během léčby jsem se setkal s různým zařazením nemoci. Obvykle přeřazování tam a zpět, podle instituce a doktora.

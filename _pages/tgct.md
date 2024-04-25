@@ -6,4 +6,4 @@ collection: tgct
 entries_layout: grid
 classes: wide
 tags: 
----  
+---

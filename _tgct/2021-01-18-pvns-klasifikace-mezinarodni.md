@@ -15,6 +15,7 @@ tags:
    - Vzácná onemocnění
 header:
   teaser: /assets/images/pvns-2.png
+layout: collection 
 ---
 
 ## Klasifikace dle WHO

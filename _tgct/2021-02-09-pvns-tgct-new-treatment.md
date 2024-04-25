@@ -12,6 +12,7 @@ tags:
 header:
   teaser: /assets/images/pvns.jpg
   last_modified_at: 2022-03-01T01:01:25-05:00
+layout: collection 
 ---
 
 Vzdělávací seminář, nová léčba pro TGCT. Pouze Anglicky.

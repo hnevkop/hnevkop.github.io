@@ -12,6 +12,7 @@ tags:
 header:
   teaser: /assets/images/tgct_support_logo.png
   last_modified_at: 2024-03-01T01:01:25-05:00
+layout: collection 
 ---
 
 Během roku 2023 byl publikován consensus ohledně diagnostiky, léčby a doporučení TGCT.
