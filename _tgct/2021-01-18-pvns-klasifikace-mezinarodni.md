@@ -1,6 +1,7 @@
 ---
 title: "Mezinárodní klasifikace PVNS/TGCT"
 show_date: true
+date: 2021-01-18
 tags:
    - Obrovskobuněčný nádor
    - PVNS

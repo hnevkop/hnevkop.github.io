@@ -133,3 +133,10 @@ collections:
   tgct:
     output: true
     permalink: /:collection/:path/
+    order:
+      - 2023-01-06-tgct-consensus.md
+      - 2021-02-09-pvns-tgct-new-treatment.md
+      - 2021-01-20-pvns-map.md
+      - 2021-01-19-pvns-ceská-klasifikace-pojistoven.md
+      - 2021-01-18-pvns-klasifikace-mezinarodni.md
+      - 2021-01-03-pvns-trials.md

@@ -1,6 +1,7 @@
 ---
 title: 'TGCT Consensus 2023'
 show_date: true
+date: 2024-04-20
 tags:
   - PVNS
   - Pigmented Villonodular Synovitis
@@ -10,6 +11,7 @@ tags:
   - Obrovskobuněčný nádor
 header:
   teaser: /assets/images/tgct_support_logo.png
+  last_modified_at: 2024-03-01T01:01:25-05:00
 ---
 
 Během roku 2023 byl publikován consensus ohledně diagnostiky, léčby a doporučení TGCT.

@@ -1,6 +1,7 @@
 ---
 title: 'TGCT seminář online, nové léky'
 show_date: true
+date: 2021-02-09
 tags:
   - PVNS
   - Pigmented Villonodular Synovitis
@@ -10,6 +11,7 @@ tags:
   - Obrovskobuněčný nádor
 header:
   teaser: /assets/images/pvns.jpg
+  last_modified_at: 2022-03-01T01:01:25-05:00
 ---
 
 Vzdělávací seminář, nová léčba pro TGCT. Pouze Anglicky.

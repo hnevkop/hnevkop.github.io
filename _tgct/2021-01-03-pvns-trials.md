@@ -1,6 +1,7 @@
 ---
 title: 'PVNS Klinické studie'
 show_date: true
+date: 2021-01-03
 tags:
   - PVNS
   - Pigmented Villonodular Synovitis
