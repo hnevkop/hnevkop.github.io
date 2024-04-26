@@ -133,7 +133,7 @@ locale: "cs-CZ"
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-185939134-1"
+    tracking_id: "G-N8JHKM2CCX"
     anonymize_ip: false # default
 
 comments:
