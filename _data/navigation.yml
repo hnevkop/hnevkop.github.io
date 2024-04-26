@@ -5,6 +5,8 @@ main:
     url: /categories/
   - title: "TGCT"
     url: /tgct/
+  - title: "Coding Psychology"
+    url: /coding-psychology/
   - title: "Tagy"
     url: /tags/
   - title: "Ovšem"
