@@ -10,7 +10,7 @@ tags:
   - Obrovskobuněčný nádor
 header:
   teaser: /assets/images/glivec-400.jpeg
-  last_modified_at: 2021-02-02T01:01:25-05:00
+  og_image: /assets/images/glivec-400.jpeg
 layout: collection 
 ---
 Na konci března jsem ukončil, respektive pozastavil léčbu Glivecem / Imatinibem. Následuje krátké shrnutí.
