@@ -1,5 +1,8 @@
 ---
 title: 'Tři roky s Imatinibem'
+seo_title: 'Tři roky s Imatinibem'
+seo_description: 'Zkušenosti s léčbu Glivecem / Imatinibem, TGCT, TGCT-D'
+excerpt: 'Zkušenosti s léčbu Glivecem / Imatinibem, TGCT, TGCT-D'
 show_date: true
 tags:
   - PVNS
@@ -11,7 +14,7 @@ tags:
 header:
   teaser: /assets/images/glivec-400.jpeg
   og_image: /assets/images/glivec-400.jpeg
-layout: collection 
+layout: collection
 ---
 Na konci března jsem ukončil, respektive pozastavil léčbu Glivecem / Imatinibem. Následuje krátké shrnutí.
 
