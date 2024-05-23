@@ -132,3 +132,5 @@ Co říci na závěr? Přestože se svět mění závratnou rychlostí, slova St
 > Když rozbíjíte pomníky, šetřete podstavce. Vždycky se hodí.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pantheon.jpeg){: .align-center}
+
+Ve zkrácené verzi publikováno na *[Seznam Medium](https://medium.seznam.cz/clanek/premysl-hnevkovsky-ai-si-nas-vsechny-vychutna-60951)* 
